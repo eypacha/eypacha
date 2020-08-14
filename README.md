@@ -1,4 +1,4 @@
-# Hi, I'm Ey Pacha! 
+# Hi, I'm Ey Pacha! 👋🏽
 **Second-generation clown, magician and kindergarten teacher** (and then... a programmer)
 
 <a href="https://eypacha.com"><img src="https://eypacha.com/img/0.jpg"></a>
@@ -9,7 +9,7 @@
 
 🎪 I travel around the world with **my one-man show** breaking language barriers by speaking without words 
 
-📖 I promote **self-education**, with which he learned to play  musical instruments, origami, beatboxing, solve a Rubik's Cube, a lot of magic, playing yoyo, maths... and I almost forgot: **programming!**
+📖 I promote **self-education**, with which he learned to play  musical instruments, origami, beatboxing, fingerfitness, solve a Rubik's Cube, a lot of magic, playing yoyo, maths... and I almost forgot: **programming!**
 
 💻 I like to write code, using **programming as an artistic tool**. Sometimes I work for others but I enjoy more facing my own projects.
 
