@@ -14,6 +14,7 @@
 💻 I like to write code, using **programming as an artistic tool**. Sometimes I work for others but I enjoy more facing my own projects.
 
 ## Find me around the web 🌍
+- Do you wanna hire me? Here my [linkedin](https://www.linkedin.com/in/eypacha/).
 - Maybe you want visit my [clown website](https://eypacha.com) or the [dev website](https://dev.eypacha.com).
 - Finde some videos on [Vimeo](https://www.vimeo.com/eypacha) or [YouTube](https://youtube.com/eypacha)
 - Stalk some pictures on [Instagram](https://instagram.com/eypacha) or discover not so much activity on [Facebook](https://facebook.com/eypacha) or even [VK](https://vk.com/eypacha)
