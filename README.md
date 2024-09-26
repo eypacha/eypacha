@@ -1,5 +1,5 @@
 # Hi, I'm Ey Pacha! 👋🏽
-**Programmer, amnd econd-generation clown, magician, kindergarten teacher**
+**Creative programmer, clown, magician and musician**
 
 💻 I like to write code, using **programming as an artistic tool**. Sometimes I work for others but I enjoy more facing my own projects.
 
