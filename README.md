@@ -3,7 +3,7 @@
 
 💻 I like to write code, using **programming as an artistic tool**. Sometimes I work for others but I enjoy more facing my own projects.
 
-🌐 With experience in frontend and full stack development, I specialize in technologies such as JavaScript (Vue.js, React, Angular), CSS (Sass, Tailwind, Bootstrap), Node.js, Laravel, and possess solid knowledge in databases such as MySQL, MongoDB, and Firebase.
+🌐 With experience in frontend and full stack development, I specialize in technologies such as JavaScript (Vue.js and React), CSS (Sass, Tailwind, Bootstrap), Node.js, Laravel, and possess solid knowledge in databases such as MySQL, MongoDB, and Firebase.
 
 🚀 Currently, I develop software for small and medium-sized companies focusing on code quality inspired by the Joel Test and continual improvement with an agile approach.
 
@@ -17,6 +17,6 @@
 
 ## Find me around the web 🌍
 - Do you wanna hire me? Here my [linkedin](https://linkedin.com/in/eypacha/).
-- Maybe you want visit my [clown website](https://eypacha.com) or the [dev website](https://dev.eypacha.com).
+- Maybe you want visit my [website](https://dev.eypacha.com).
 - Finde some videos on [Vimeo](https://vimeo.com/eypacha) or [YouTube](https://youtube.com/eypacha)
 - Stalk some pictures on [Instagram](https://instagram.com/eypacha)
